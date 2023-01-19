@@ -1,2 +1,13 @@
 # LPAT
 Load Profile Analysis Tool by Edmund Schaefer - Saxion University of Applied Sciences
+
+Load Profile Analysis Tool (LPAT) both in part and in its 
+totality is available under Creative Commons 
+Attribution-NonCommercial 4.0 International Licence, 
+see https://creativecommons.org/licenses/by-nc/4.0/legalcode 
+for more information. 
+
+For more information about this tool, please see the publication
+'Sizing of hybrid energy storage through analysis of load profile
+characteristics: A household case study',
+DOI: 10.1016/j.est.2022.104768
